@@ -11,7 +11,7 @@ export const bebas = Bebas_Neue({
 export default function NavBar() {
   return (
     <div className="flex w-full flex-col py-[2vh] px-[4vw]">
-      <div className="flex flex-col items-start -ml-4 lg:items-center lg:flex-row">
+      <div className="flex flex-col items-start -ml-4 lg:items-center lg:flex-row ">
         <Button
           className="text-slate-500 font-normal"
           fontSize={"xl"}
