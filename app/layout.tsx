@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 import NavBar from "@/components/navbar";
 import Footer from "@/components/footer";
 
-export const inter = Inter({
+const inter = Inter({
   subsets: ["latin"],
 });
 
